@@ -1,0 +1,183 @@
+.inpt div span {
+    display: inline-block;
+    width: 300px;
+}
+
+.dbtn,
+.inpt div {
+    text-align: center;
+}
+
+.hide,
+.acc .wrapperTbl .hide {
+    display: none;
+}
+
+#statmnt {
+    width: 400px;
+    font-size: 12px;
+}
+
+#div span {
+    width: 200px;
+}
+
+.imgdoc {
+    width: 300px;
+}
+
+#inpt {
+    width: 540px;
+    margin: 0 auto;
+    border: 1px dotted;
+}
+
+#inpt div span {
+    display: inline-block;
+    width: 200px;
+    text-align: cneter;
+}
+
+#nballs {
+    margin-left: 4px;
+}
+
+.forButton {
+    text-align: center;
+}
+
+.sums label {
+    width: 200px;
+}
+
+.inptService {
+    margin-left: 4px;
+}
+
+#elektroField {
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.tbl td {
+    border: 1px solid;
+}
+
+.act {
+    border: 1px solid green;
+}
+
+.deact {
+    background: gray;
+    border: 1px solid red;
+}
+
+
+/*acc.php*/
+
+.acc {
+    font-size: 14px;
+}
+
+.acc .wrapperTbl,
+.acc .wrapperTbl div {
+    display: flex;
+}
+
+.acc table {
+    line-height: 12px;
+}
+
+.flat {
+    font-size: 16px;
+}
+
+.flat table {
+    line-height: 18px;
+}
+
+.acc th,
+.thservice th,
+.tbls5 th,
+.tbls7 th {
+    height: 16px;
+    font-size: 8px;
+}
+
+.flat table th {
+    height: 22px;
+}
+
+.tbls0 {
+    min-width: 25px;
+}
+
+.acc .tbls td,
+.acc .wrapperTbl td {
+    text-align: center;
+    border: 1px solid;
+}
+
+.acc .tbls tr:nth-child(odd) {
+    background: #ccc;
+}
+
+.debugger {
+    position: absolute;
+    top: 40px;
+    right: 200px;
+    border: 1px solid red;
+    background: white;
+}
+
+.thservice,
+th {
+    text-align: center;
+}
+
+#sumg {
+    width: 70px;
+}
+
+#sumk {
+    width: 50px;
+}
+
+.resYellow {
+    color: yellow;
+}
+
+.elektroCalc td {
+    width: 50px;
+}
+
+.done {
+    color: green;
+}
+
+.inProgress {
+    color: yellowgreen;
+}
+
+.toDo {
+    color: lightcoral;
+}
+
+#invoice {
+    width: 430px;
+    margin: 0 auto;
+}
+
+#usrUpd {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.deactive button {
+    display: none;
+}
+
+#Accruals {
+    font-weight: normal;
+}
